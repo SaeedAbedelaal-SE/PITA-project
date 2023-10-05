@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PITA-project"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.541">
+    <properties></properties>
+
+
+
+            <testcase
+                name="sectest"
+                time="1.198"
+                classname="setup">
+            </testcase>
+            <testcase
+                name="thirdtest"
+                time="2.107"
+                classname="setup">
+            </testcase>
+            <testcase
+                name="firsttest"
+                time="0.060"
+                classname="setup">
+            </testcase>
+            <testcase
+                name="secctest"
+                time="2.176"
+                classname="setup">
+            </testcase>
+</testsuite>
